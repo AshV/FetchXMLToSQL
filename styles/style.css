@@ -1,0 +1,31 @@
+html, body {
+    height: 98%;
+    width: 99%;
+}
+
+input {
+    resize: none;
+    color: #9807f5;
+}
+
+h2 {
+    line-height: 50%;
+}
+
+::-webkit-input-placeholder { /* Chrome */
+    color: #c18fe1;
+}
+
+:-ms-input-placeholder { /* IE 10+ */
+    color: #c18fe1;
+}
+
+::-moz-placeholder { /* Firefox 19+ */
+    color: #c18fe1;
+    opacity: 2;
+}
+
+:-moz-placeholder { /* Firefox 4 - 18 */
+    color: #c18fe1;
+    opacity: 2;
+}
